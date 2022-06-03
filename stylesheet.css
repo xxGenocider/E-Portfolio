@@ -1,0 +1,85 @@
+body {
+  background-image: url("background.jpg");
+}
+
+
+.header-div {
+  background-color: #FEC708;
+  padding: 48px 0;
+}
+
+.header-div h1 {
+  font-size: 3em;
+}
+
+.nav {
+  background-color: #E5F2EF;
+}
+
+.nav-link .active {
+  background-color: #7FF1E3;
+}
+
+.nav-link {
+  color:  black;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.tab-pane {
+  background-color: white;
+}
+
+h2 {
+  margin: 24px 0;
+}
+
+p {
+  padding: 0 24px;
+  font-size: 1.25em;
+  text-indent: 24px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.profile{
+  font-size: 3em;
+}
+
+.about-me {
+  margin-top: 2em;
+  font-size: 1em;
+  text-indent: 0;
+  text-align: left;
+  padding: 0;
+  line-height: 2em;
+}
+
+
+img {
+ height: 250px;
+ width: 250px;
+ border-radius: 50%;
+ border: 1px solid black;
+ margin: 25px;
+}
+
+.profile-container {
+  margin-top: 64px;
+}
+
+.profile-para {
+  padding: 0;
+  text-indent: 0;
+  font-size: 1em;
+  margin: 8 px 0;
+}
+
+.profile-para:first-of-type {
+  margin-top: 2em;
+}
+
+.title {
+  font-size: 1em;
+  font-weight: bold;
+}
